@@ -1,105 +1,73 @@
-{
-  "version": "1.0.0",
-  "exportedAt": "2026-05-17T14:33:53.482Z",
-  "profile": {
-    "title": "HARSHAVARDHAN PAPPALA",
-    "subtitle": "Student at Chalapathi Institution Of Technology",
-    "currentWork": "AI-Infused Full-Stack",
-    "currentLearn": "Fullstack",
-    "collaborateOn": "",
-    "helpWith": "Data-Base And API`S",
-    "ama": "My College",
-    "contact": "cit24ht1a6185@gmail.com",
-    "funFact": "I'm an AI & ML student training web applications to think, while my brain trains on coffee and clean code!",
-    "visitorsBadge": true,
-    "badgeStyle": "flat",
-    "badgeColor": "0e75b6",
-    "badgeLabel": "Profile views",
-    "githubProfileTrophy": true,
-    "githubStats": true,
-    "githubStatsOptions": {
-      "theme": "",
-      "titleColor": "",
-      "textColor": "",
-      "bgColor": "",
-      "hideBorder": false,
-      "cacheSeconds": null,
-      "locale": "en"
-    },
-    "topLanguages": true,
-    "topLanguagesOptions": {
-      "theme": "",
-      "titleColor": "",
-      "textColor": "",
-      "bgColor": "",
-      "hideBorder": false,
-      "cacheSeconds": null,
-      "locale": "en"
-    },
-    "streakStats": true,
-    "streakStatsOptions": {
-      "theme": ""
-    },
-    "devDynamicBlogs": false,
-    "mediumDynamicBlogs": false,
-    "rssDynamicBlogs": false
-  },
-  "links": {
-    "currentWork": "",
-    "collaborateOn": "",
-    "helpWith": "",
-    "portfolio": "",
-    "blog": "",
-    "resume": ""
-  },
-  "social": {
-    "github": "harshavardhanpappal",
-    "dev": "",
-    "linkedin": "www.linkedin.com/in/harshavardhanpappala",
-    "codepen": "",
-    "stackoverflow": "",
-    "kaggle": "",
-    "codesandbox": "",
-    "fb": "",
-    "instagram": "@itsme_mr_harsha",
-    "twitter": "",
-    "dribbble": "",
-    "behance": "",
-    "medium": "",
-    "youtube": "",
-    "codechef": "cit_24ht1a6185",
-    "hackerrank": "",
-    "codeforces": "",
-    "leetcode": "",
-    "topcoder": "",
-    "hackerearth": "",
-    "geeks_for_geeks": "https://www.geeksforgeeks.org/profile/phvcvzjm?from=explore",
-    "discord": "",
-    "rssurl": "",
-    "twitterBadge": false
-  },
-  "support": {
-    "buyMeACoffee": ""
-  },
-  "skills": [
-    "anaconda",
-    "android",
-    "aws",
-    "c",
-    "canvasjs",
-    "css3",
-    "docker",
-    "dotnet",
-    "flutter",
-    "gcp",
-    "git",
-    "html5",
-    "javascript",
-    "mongodb",
-    "nodejs",
-    "numpy",
-    "pandas",
-    "python",
-    "seaborn"
-  ]
-}# HARSHAVARDHAN-PAPPALA
+# Hello 👋, I'm HARSHAVARDHAN PAPPALA
+
+### Student at Chalapathi Institution Of Technology
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=harshavardhanpappal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+- 🔭 I’m currently working on **AI-Infused Full-Stack**
+- 🌱 I’m currently learning **Fullstack**
+- 🤝 I’m looking to help with **Data-Base And API'S**
+- 💬 Ask me about **My College**
+- 📫 How to reach me **cit24ht1a6185@gmail.com**
+- ⚡ Fun fact **I'm an AI & ML student training web applications to think, while my brain trains on coffee and clean code!**
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dotnet" width="40" height="40"/>&nbsp;
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/>&nbsp;
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Seaborn-blue?style=for-the-badge&logo=python&logoColor=white" alt="seaborn" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Anaconda-333333?style=for-the-badge&logo=anaconda&logoColor=green" alt="anaconda" height="40"/>&nbsp;
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>&nbsp;
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/>&nbsp;
+</p>
+
+---
+
+## 🔗 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/harshavardhanpappala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/harshavardhanpappala" height="30" width="40" /></a>
+  <a href="https://instagram.com/@itsme_mr_harsha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@itsme_mr_harsha" height="30" width="40" /></a>
+  <a href="https://www.geeksforgeeks.org/profile/phvcvzjm?from=explore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="phvcvzjm" height="30" width="40" /></a>
+  <a href="https://www.codechef.com/users/cit_24ht1a6185" target="blank"><img align="center" src="https://img.shields.io/badge/CodeChef-333333?style=flat&logo=codechef&logoColor=white" alt="cit_24ht1a6185" height="30"/></a>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+🏆 [![github profile trophy](https://github-profile-trophy.vercel.app/?username=harshavardhanpappal)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📊 Analytics & Stats
+
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=harshavardhanpappal&show_icons=true&locale=en" alt="harshavardhanpappal" height="150" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshavardhanpappal&layout=compact&locale=en" alt="harshavardhanpappal" height="150" />
+</p>
+
+<p align="center">
+  <br/><br/><br/><br/><br/><br/><br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshavardhanpappal" alt="harshavardhanpappal" />
+</p>
