@@ -55,19 +55,4 @@
 
 ---
 
-## 🏆 GitHub Trophies
-🏆 [![github profile trophy](https://github-profile-trophy.vercel.app/?username=harshavardhanpappal)](https://github.com/ryo-ma/github-profile-trophy)
 
----
-
-## 📊 Analytics & Stats
-
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=harshavardhanpappal&show_icons=true&locale=en" alt="harshavardhanpappal" height="150" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshavardhanpappal&layout=compact&locale=en" alt="harshavardhanpappal" height="150" />
-</p>
-
-<p align="center">
-  <br/><br/><br/><br/><br/><br/><br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshavardhanpappal" alt="harshavardhanpappal" />
-</p>
