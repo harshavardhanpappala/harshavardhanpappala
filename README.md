@@ -1,1 +1,105 @@
-# HARSHAVARDHAN-PAPPALA
+{
+  "version": "1.0.0",
+  "exportedAt": "2026-05-17T14:33:53.482Z",
+  "profile": {
+    "title": "HARSHAVARDHAN PAPPALA",
+    "subtitle": "Student at Chalapathi Institution Of Technology",
+    "currentWork": "AI-Infused Full-Stack",
+    "currentLearn": "Fullstack",
+    "collaborateOn": "",
+    "helpWith": "Data-Base And API`S",
+    "ama": "My College",
+    "contact": "cit24ht1a6185@gmail.com",
+    "funFact": "I'm an AI & ML student training web applications to think, while my brain trains on coffee and clean code!",
+    "visitorsBadge": true,
+    "badgeStyle": "flat",
+    "badgeColor": "0e75b6",
+    "badgeLabel": "Profile views",
+    "githubProfileTrophy": true,
+    "githubStats": true,
+    "githubStatsOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "topLanguages": true,
+    "topLanguagesOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "streakStats": true,
+    "streakStatsOptions": {
+      "theme": ""
+    },
+    "devDynamicBlogs": false,
+    "mediumDynamicBlogs": false,
+    "rssDynamicBlogs": false
+  },
+  "links": {
+    "currentWork": "",
+    "collaborateOn": "",
+    "helpWith": "",
+    "portfolio": "",
+    "blog": "",
+    "resume": ""
+  },
+  "social": {
+    "github": "harshavardhanpappal",
+    "dev": "",
+    "linkedin": "www.linkedin.com/in/harshavardhanpappala",
+    "codepen": "",
+    "stackoverflow": "",
+    "kaggle": "",
+    "codesandbox": "",
+    "fb": "",
+    "instagram": "@itsme_mr_harsha",
+    "twitter": "",
+    "dribbble": "",
+    "behance": "",
+    "medium": "",
+    "youtube": "",
+    "codechef": "cit_24ht1a6185",
+    "hackerrank": "",
+    "codeforces": "",
+    "leetcode": "",
+    "topcoder": "",
+    "hackerearth": "",
+    "geeks_for_geeks": "https://www.geeksforgeeks.org/profile/phvcvzjm?from=explore",
+    "discord": "",
+    "rssurl": "",
+    "twitterBadge": false
+  },
+  "support": {
+    "buyMeACoffee": ""
+  },
+  "skills": [
+    "anaconda",
+    "android",
+    "aws",
+    "c",
+    "canvasjs",
+    "css3",
+    "docker",
+    "dotnet",
+    "flutter",
+    "gcp",
+    "git",
+    "html5",
+    "javascript",
+    "mongodb",
+    "nodejs",
+    "numpy",
+    "pandas",
+    "python",
+    "seaborn"
+  ]
+}# HARSHAVARDHAN-PAPPALA
