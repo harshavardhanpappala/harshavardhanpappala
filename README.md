@@ -50,4 +50,5 @@
   <a href="https://www.instagram.com/itsme_mr_harsha?igsh=d28yM216cm5jczh3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
   <a href="https://www.geeksforgeeks.org/profile/phvcvzjm?from=explore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" /></a>
   <a href="https://www.codechef.com/users/cit_24ht1a6185" target="blank"><img align="center" src="https://img.shields.io/badge/CodeChef-333333?style=flat&logo=codechef&logoColor=white" alt="CodeChef" height="30"/></a>
+  <a href="https://t.me/amharshavardhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram" height="30" width="40" /></a>
 </p>
