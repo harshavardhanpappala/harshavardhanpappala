@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Fullstack**
 - 🤝 I’m looking to help with **Data-Base And API'S**
 - 💬 Ask me about **My College**
-- 📧 Contact me **cit24ht1a6185@gmail.com**
+- 📫 How to reach me **cit24ht1a6185@gmail.com**
 - ⚡ Fun fact **I'm an AI & ML student training web applications to think, while my brain trains on coffee and clean code!**
 
 ---
@@ -31,6 +31,7 @@
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Seaborn-blue?style=for-the-badge&logo=python&logoColor=white" alt="seaborn" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Anaconda-333333?style=for-the-badge&logo=anaconda&logoColor=green" alt="anaconda" height="40"/>&nbsp;
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>&nbsp;
@@ -46,12 +47,8 @@
 ## 🔗 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/harshavardhanpappala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/harshavardhanpappala" height="30" width="40" /></a>
-  <a href="https://instagram.com/@itsme_mr_harsha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@itsme_mr_harsha" height="30" width="40" /></a>
-  <a href="https://www.geeksforgeeks.org/profile/phvcvzjm?from=explore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="phvcvzjm" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/cit_24ht1a6185" target="blank"><img align="center" src="https://img.shields.io/badge/CodeChef-333333?style=flat&logo=codechef&logoColor=white" alt="cit_24ht1a6185" height="30"/></a>
+  <a href="https://www.linkedin.com/in/harshavardhanpappala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/itsme_mr_harsha?igsh=d28yM216cm5jczh3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://www.geeksforgeeks.org/profile/phvcvzjm?from=explore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" /></a>
+  <a href="https://www.codechef.com/users/cit_24ht1a6185" target="blank"><img align="center" src="https://img.shields.io/badge/CodeChef-333333?style=flat&logo=codechef&logoColor=white" alt="CodeChef" height="30"/></a>
 </p>
-
----
-
-
