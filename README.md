@@ -31,7 +31,6 @@
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/Seaborn-blue?style=for-the-badge&logo=python&logoColor=white" alt="seaborn" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Anaconda-333333?style=for-the-badge&logo=anaconda&logoColor=green" alt="anaconda" height="40"/>&nbsp;
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>&nbsp;
